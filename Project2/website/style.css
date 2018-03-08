@@ -1,0 +1,202 @@
+body, html {
+
+	font-family: 'Playfair Display', serif;
+	height: 100%;
+}
+
+.body-articles {
+	margin: 10px;
+}
+
+.image5 {
+  margin: -1;	
+  z-index: -1;
+  top: 0;
+  height: 40vh;
+  background-image: url("study.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.image4 {
+  margin: -1;	
+  z-index: -1;
+  top: 0;
+  height: 30vh;
+  background-image: url("sleep.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.image3 {
+  margin: -1;	
+  z-index: -1;
+  top: 0;
+  height: 30vh;
+  background-image: url("music-education.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.image2 {
+  margin: -1;	
+  z-index: -1;
+  top: 0;
+  height: 30vh;
+  background-image: url("depression.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.image {
+  margin: -1;	
+  z-index: -1;
+  top: 0;
+  height: 30vh;
+  background-image: url("health.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background-homepage {
+position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+background-image: url("homepage.jpg");	
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.background-container {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("background-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+    
+}
+
+ul{
+	position: fixed;
+	list-style-type: ;
+	margin-top: 400px;
+	padding: 0;
+	width: 230px;
+	background-color: transparent;
+}
+
+li a {
+	display: table-row;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: #a9a9a9;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: transparent;
+}
+
+.topnav a {
+  float: left;
+  color: transparent;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+
+.quote1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #39B54A; 
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.quote2 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #ED1C24; 
+	margin-bottom: 20px;
+	
+	}
+
+.quote3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #F15A29; 
+	margin-bottom: 20px;
+	
+	}
+
+.quote4 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #92278F; 
+	margin-bottom: 20px;
+	
+	}
+
+.quote5 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #27AAE1; 
+	margin-bottom: 20px;
+	text-align: center;
+	}
+
+h2{
+
+	font-weight: bold;
+	top: 20px;
+	position: relative;
+	padding-bottom: 3%;
+	text-align: center;
+}
+h5 {
+	top: 10px;
+	position: relative;
+	margin-top: .1%;
+	padding-bottom: 8%;
+	text-align: center;
+
+}
+
+h4 {
+	top: 2px;
+	position: relative;
+	padding-top: 2px;
+
+}
+
+p {
+	text-indent: 20px;
+}
+
