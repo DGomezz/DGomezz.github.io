@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+		<link rel="stylesheet" href="style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Musical Benefits</title>
+		
+	</head>
+<div class="background-homepage"></div>
+	<body>
+		
+		<ul>
+			<li><a href="depression">How Music Therapy Can Relieve Depression</a></li>
+			<li><a href="education">The Benefits of Music Education</a></li>
+			<li><a href="health">Why listening to music is the key to good health</a></li>
+			<li><a href="sleep">Can Music Help You Sleep?</a></li>
+			<li><a href="studying">Listening to Music while Studying: A Good or a Bad Idea?</a></li>
+		</ul>
+		
+	</body>
+</html>
+
+
